@@ -1,0 +1,22 @@
+.container {
+  background-color: #ccc;
+  padding: 20px;
+}
+.container #title {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.container-bottom {
+  background-color: #030e4b;
+  padding: 50px;
+}
+.container-bottom #paragrafo {
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */

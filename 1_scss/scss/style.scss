@@ -1,0 +1,25 @@
+$bg-color: #ccc;
+$title-back: #333;
+$main-color: #fff;
+
+.container {
+    background-color: $bg-color;
+    padding: 20px;
+
+    #title {
+        background-color: $title-back;
+        color: $main-color;
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+.container-bottom {
+    background-color: rgb(3, 14, 75);
+    padding: 50px;
+    #paragrafo {
+        font-weight: 600;
+        color: $main-color;
+        text-align: center;
+    }
+}
